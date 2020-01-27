@@ -18,6 +18,7 @@ public List<ProductData> prepareProductData(){
 		productData.setQuantity(obj[1].toString());
 		productData.setColor(obj[2].toString());
 		productData.setSize(obj[3].toString());
+		//git test purposes
 		
 		
 	}
